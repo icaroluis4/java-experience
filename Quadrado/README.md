@@ -1,5 +1,5 @@
 ## Programa que calcula areas de Quadradados , Retângulos e Trápezios
-Os arquivso se encontram na pasta 'src' 
+Os arquivo se encontram na pasta 'src' 
 Ao rodar o programa basta escolher dentre as opções 1 , 2 e 3 ;
 
 ## Exemplo
