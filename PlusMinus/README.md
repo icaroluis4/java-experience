@@ -4,7 +4,7 @@ Note: This challenge introduces precision problems. The test cases are scaled to
 
 Example
 arr = [1 , 1 , 0 , -1 , -1]
-There are  elements, two positive, two negative and one zero. Their ratios are ,  and . Results are printed as:
+There are  elements, two positive, two negative and one zero. Their ratios are 2/5 , 2/5 and 1/5 ,  and . Results are printed as:
 
 0.400000
 0.400000
