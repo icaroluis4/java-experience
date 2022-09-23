@@ -2,6 +2,6 @@
 
 Example: arr = [ 1 , 3 , 5 , 7 , 9]
 
-The minimum sum is 1+3+5+7+9 and the maximum sum is 3+5+7+9 . The function prints
+The minimum sum is 1+3+5+7 and the maximum sum is 3+5+7+9 . The function prints
 
 16 24
